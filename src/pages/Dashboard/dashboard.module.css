@@ -1,0 +1,13 @@
+.customimgicon {
+    font-size: 1.4rem;
+    width: 1.24em;
+    /* color: DodgerBlue;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center; */
+}
+.card_list_item {
+    border: black 2px solid;
+    text-align: center;
+    min-width: 6rem;
+}
